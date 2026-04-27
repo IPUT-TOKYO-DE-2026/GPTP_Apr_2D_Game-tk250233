@@ -9,13 +9,6 @@
 生かさず殺しきらずがスコアを伸ばすコツ
 
 （プレイ中のスクリーンショットをドラッグ＆ドロップして追加する）
-<img width="1919" height="1079" alt="スクリーンショット 2026-04-27 171430" src="https://github.com/user-attachments/assets/cde7caf7-982b-4098-bf71-e7c096fec05c" />
-<img width="1919" height="1079" alt="スクリーンショット 2026-04-27 171444" src="https://github.com/user-attachments/assets/a557105f-b0d4-479d-a4e2-138d9d92cf40" />
-<img width="1485" height="826" alt="スクリーンショット 2026-04-27 172238" src="https://github.com/user-attachments/assets/30205023-30e4-4411-9412-16929d668ccc" />
-<img width="1918" height="1079" alt="スクリーンショット 2026-04-27 171639" src="https://github.com/user-attachments/assets/213cfa0c-c59f-4002-82cc-53eb49417f5a" />
-<img width="1496" height="833" alt="スクリーンショット 2026-04-27 172324" src="https://github.com/user-attachments/assets/4f2d4d83-bfbb-4111-8165-e4cf59766295" />
-<img width="1494" height="828" alt="スクリーンショット 2026-04-27 172347" src="https://github.com/user-attachments/assets/fc83b71e-39ef-4c70-874b-63a3bf2fa633" />
-<img width="1496" height="830" alt="スクリーンショット 2026-04-27 172406" src="https://github.com/user-attachments/assets/e4885907-5659-428c-8f6b-53817693507f" />
 <img width="1493" height="833" alt="スクリーンショット 2026-04-27 172424" src="https://github.com/user-attachments/assets/52694214-aa13-4294-ab53-aa3d8686f727" />
 
 ## 操作説明
